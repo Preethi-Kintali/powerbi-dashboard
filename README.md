@@ -1,4 +1,5 @@
 # 🍫 Chocolate Shipment Analytics Dashboard
+<img width="1205" height="672" alt="image" src="https://github.com/user-attachments/assets/7c010df2-064d-4ee0-a442-a042042f9a0a" />
 
 ## 🔍 Overview
 
